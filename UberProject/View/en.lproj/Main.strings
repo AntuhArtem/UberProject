@@ -1,0 +1,60 @@
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "5vp-VX-a0S"; */
+"5vp-VX-a0S.normalTitle" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "9yw-ID-0P5"; */
+"9yw-ID-0P5.normalTitle" = "log in";
+
+/* Class = "UILabel"; text = "You don't have an account yet? "; ObjectID = "CPo-yg-3nh"; */
+"CPo-yg-3nh.text" = "You don't have an account yet? ";
+
+/* Class = "UITextField"; placeholder = "Password(6 and more signs)"; ObjectID = "Flk-b6-IE4"; */
+"Flk-b6-IE4.placeholder" = "Password(6 and more signs)";
+
+/* Class = "UIButton"; normalTitle = "I CAN HELP"; ObjectID = "GTh-7g-qaY"; */
+"GTh-7g-qaY.normalTitle" = "I CAN HELP";
+
+/* Class = "UILabel"; text = "AUTHORIZATION"; ObjectID = "HuA-C3-PDM"; */
+"HuA-C3-PDM.text" = "AUTHORIZATION";
+
+/* Class = "UIButton"; normalTitle = "log in"; ObjectID = "IFr-5T-l0g"; */
+"IFr-5T-l0g.normalTitle" = "log in";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NEr-Pf-2VZ"; */
+"NEr-Pf-2VZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ON8-ea-aVZ"; */
+"ON8-ea-aVZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ofq-1s-Dgy"; */
+"Ofq-1s-Dgy.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "I NEED HELP"; ObjectID = "ROC-gQ-Qnh"; */
+"ROC-gQ-Qnh.normalTitle" = "I NEED HELP";
+
+/* Class = "UITextField"; placeholder = "Email(example@gmail.com)"; ObjectID = "SWy-NY-qDG"; */
+"SWy-NY-qDG.placeholder" = "Email(example@gmail.com)";
+
+/* Class = "UITextField"; placeholder = "Email(example@gmail.com)"; ObjectID = "bb5-Ta-Pj0"; */
+"bb5-Ta-Pj0.placeholder" = "Email(example@gmail.com)";
+
+/* Class = "UIButton"; normalTitle = "Accept Uber"; ObjectID = "giM-BE-eNK"; */
+"giM-BE-eNK.normalTitle" = "Accept Uber";
+
+/* Class = "UITextField"; placeholder = "Password(6 and more signs)"; ObjectID = "gou-qo-ao5"; */
+"gou-qo-ao5.placeholder" = "Password(6 and more signs)";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "kN5-jS-IWY"; */
+"kN5-jS-IWY.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "You don't have an account yet? "; ObjectID = "kic-K1-aqm"; */
+"kic-K1-aqm.text" = "You don't have an account yet? ";
+
+/* Class = "UILabel"; text = "AUTHORIZATION"; ObjectID = "wQQ-9h-uZG"; */
+"wQQ-9h-uZG.text" = "AUTHORIZATION";
+
+/* Class = "UIButton"; normalTitle = "Call Uber"; ObjectID = "wlv-KC-Cu4"; */
+"wlv-KC-Cu4.normalTitle" = "Call Uber";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z95-7j-eRf"; */
+"z95-7j-eRf.normalTitle" = "Button";
